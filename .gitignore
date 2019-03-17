@@ -219,3 +219,8 @@ _Pvt_Extensions
 BenchmarkEntitas/CodeGenerator/
 
 BenchmarkEntitas/EntitasPure/Libraries/Entitas/
+
+# JetBrains Rider settings files
+/.idea/.idea.minECS/.idea/
+/.idea/.idea.minECS/
+/.idea/
